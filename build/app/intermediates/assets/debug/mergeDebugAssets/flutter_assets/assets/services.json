@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "baneledi",
+  "private_key_id": "57073814189e16de374ed9655dfb6dff2c675000",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGo/OYOcMnXuB0\n+ewkxGQbYzLBTNeC9bghJ4MigMiqCjBzbcqddP/CL8g3beeCcMTbfxTUIjfdonIg\nRVmOmThtWZDFxAcwdakeIbf93HkNpvFDGA1CIP3TGCBJ59PbH9axrgab7KRxGKvv\nXlyBZzd1j15qNUG48XXTYC61hRtoE8o9vHG65rtK+LSIhD2GJCpJgB4UccOi+mm2\n9sI5Z93Gw4p7QEGZwOIYu8S+WA6sCKZsLzGbtRwjPmbEXGhRGYS4oGtQIjpxkLa6\nyXkF6voxcsM5MxRUCNie6kbkUf6yZViBZJE757dhIdmxofcSlGbVjJlmBUsX7GVz\n0Sa5s2DPAgMBAAECggEAKEoDs9nvY7JiK0evpktxFH77weoggg7toEff2KUvThHP\n/vGDWYlsAIppfRidDr9ppi1x347rLthudm4qenpIUCGM9BfM737F5Pco1uQbZ3H3\nWEjuE34WjXTEw8iyFy0vgg1OiNyoA8phwSSt9Y8mWAFSwI75vBW5dLx67NVJGEQj\ng2mPFK6jjIaaYpceiTxjkxnzzR0IjxEj2+3bt03ktgsvENE8ZgDvl5QYAuE71z6P\nrZ/ZT/GrwXT1o1gejZm+cEpXU3HMQBMPfpfhPYxtKs8ZfMS05LR3CDA4M22g3yee\nuKlSx4pnIWBvHqbV3s+siCuqo/EJ8DpDhFB4ln379QKBgQD1D8EL6LL6GLOWt4Cw\nzzTGFIE13MwerP7h00+PZdkrutUdPABArHGurIK2pucX1y0T0Uh3RyoJnvUHDmkJ\nusPCFSn3UE9fUrzND7iYj+exbhdvgZ0CsjXcm+d9K0ILbmtAbeacETDk4f5XuLwW\nZeS21Bmlpgb/hg79idMJRgmYtQKBgQDPgcHXqALaBxQr5pL/bIKez/F+vopGKBcw\nKcy9uomyjuT6ZWfncVeuv1Jg/gsoLttX0raZ0zgydI65P+Dm78SayAotSNKLRnAB\nZuaz7Qyj0x12Iq6BYlIFj67q0Q16tV+8VxcWRBqFz8ZaIibMmpdz/2dcpFWAjkTo\nmd2qYU7Z8wKBgGZy7ZuS7q/Lf9i0YmKIXWGp1NK1ucfhPrUd6Bbk10OG2e1c1iYz\ncVs613KQl+/JjxjH12m2IIbhI0KN7a+Zmpkay+6OboBFUJTRy7RMBOqSQc3l+8PS\nyN2vd7lGSlgJE2FeEJiSP0SQjgoSOt+KPXGJfidYH3jXjJDF+6nW09A5AoGAcUak\nStWsuNikalK0bDsQEyHw8v+Q/DtmbSRkYC40fQUEeqxgzDdTZlGK5ufHr2fk1Uxx\n4gcr5l86imYUn/zDlrsc0xut09nfyuQhjJcbD1NwAc1s9bR2khKdqhH1Ccd5O5dP\nQxhqYiHKZem+xHKfuvLxueD7y/HeLBvSpe/424ECgYEA3acw6j+sEOC5kddKAJ4H\nhzBAlTYdAoc4hWuY4sEYRyMXWc71Bdx6EYKUBTImPONmRvIqevM516tasBIDIScz\nTk+wMP8HMXNw+5C5VIhKR78+0ZUwcnr9mdBZgUqeRNyQYbH8doqSPZ6m5OFEdldh\n+rMDiNx65EY4OWEbKDDdFfY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "baneledi@baneledi.iam.gserviceaccount.com",
+  "client_id": "100785319107094972321",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/baneledi%40baneledi.iam.gserviceaccount.com"
+}

@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "209791553033",
+    "firebase_url": "https://instantchat-softmeet-default-rtdb.firebaseio.com",
+    "project_id": "instantchat-softmeet",
+    "storage_bucket": "instantchat-softmeet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209791553033:android:84b0a2c87b196ef067b2d8",
+        "android_client_info": {
+          "package_name": "com.sofftechz.softmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209791553033-6b8hj6ks0dbuj8u9n98k18bcck0mrae8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sofftechz.softmeet",
+            "certificate_hash": "709d22cc94fd56b2981cb6ceedb23d0fcc5ff2b5"
+          }
+        },
+        {
+          "client_id": "209791553033-77a5csf3hpb72rqchtgkmeu6lhssqk92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sofftechz.softmeet",
+            "certificate_hash": "5fe92a7a736a3f8c2494c71d850b2b1ff5204f25"
+          }
+        },
+        {
+          "client_id": "209791553033-9rmfcqjsk3e45dc6hj5sep8u8ifu9mbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sofftechz.softmeet",
+            "certificate_hash": "7cdc2f4c5a28874e7f27b5594eb969e8f8cbae62"
+          }
+        },
+        {
+          "client_id": "209791553033-upocogkkoaechqob5uvtfubbaknmfqgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_bQvuo9I2Bkkt5g5luZHTGRh2BPOyXIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209791553033-upocogkkoaechqob5uvtfubbaknmfqgs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "209791553033-gooeacphtrf0vobvqrtah99t4v3csco1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sofftechz.softmeet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

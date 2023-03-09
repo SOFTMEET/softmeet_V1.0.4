@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:1:1-11:12
+INJECTED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:1:1-11:12
+INJECTED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:2:5-42
+		INJECTED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:4:5-10:15
+intent#action:name:android.intent.action.CREATE_DOCUMENT+category:name:android.intent.category.OPENABLE+data:mimeType:*/*
+ADDED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:5:9-9:18
+action#android.intent.action.CREATE_DOCUMENT
+ADDED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:6:13-76
+	android:name
+		ADDED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:6:21-73
+data
+ADDED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:7:13-44
+	android:mimeType
+		ADDED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:7:19-41
+category#android.intent.category.OPENABLE
+ADDED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:8:13-73
+	android:name
+		ADDED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:8:23-70
+uses-sdk
+INJECTED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml

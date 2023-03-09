@@ -1,0 +1,29 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cleveroad.cr_file_saver" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="19"
+6-->C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="19" />
+7-->C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml
+8
+9    <queries>
+9-->C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:4:5-10:15
+10        <intent>
+10-->C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:5:9-9:18
+11            <action android:name="android.intent.action.CREATE_DOCUMENT" />
+11-->C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:6:13-76
+11-->C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:6:21-73
+12
+13            <data android:mimeType="*/*" />
+13-->C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:7:13-44
+13-->C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:7:19-41
+14
+15            <category android:name="android.intent.category.OPENABLE" />
+15-->C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:8:13-73
+15-->C:\Users\r2tha\AppData\Local\Pub\Cache\hosted\pub.dev\cr_file_saver-0.0.2+1\android\src\main\AndroidManifest.xml:8:23-70
+16        </intent>
+17    </queries>
+18
+19</manifest>
